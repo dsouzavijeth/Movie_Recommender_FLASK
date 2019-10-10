@@ -13,4 +13,4 @@ We then find the cosine similarity between these vectors to find out how similar
 ***NOTE***
 1. Run the code in the Jupyter Notebook 'Movie_Recommender.ipynb'
 2. This saves a model with the name 'Movie_Cosine_Scores.pkl', which will be used while you run the deployment code.
-3. Steps for model deployment is explained in 'Steps_for_Model_Deployment.pdf'
+3. Steps for model deployment is explained in 'Steps_for_Model_Deployment.pdf / .docx'
