@@ -1,6 +1,6 @@
 # Movie_Recommender_FLASK
 
-This is a Movie Recommendation system which predicts the top 5 movies for a particular movie specified.
+This is a Movie Recommendation system which predicts the top 5 movies which are similar to a particular movie specified.
 The model is then deployed using FLASK. 
 
 The dataset contains 5043 samples and 28 columns. For our analysis, only columns  'movie_title', 'genres', 'plot_keywords' are considered.
